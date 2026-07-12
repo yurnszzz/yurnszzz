@@ -64,7 +64,7 @@ As a published researcher with **3 academic papers** and the **President of BSO 
 $ cat .profile
 ╭──────────────────────────────────────────────────────╮
 │                                                      │
-│   ROLE     = Information Systems Student              │
+│   ROLE     = Information Systems Student             │
 │   MAJOR    = S1 Sistem Informasi (Batch 2024)        │
 │   CAMPUS   = UPN "Veteran" Jakarta                   │
 │   DOMAIN   = IT Audit | Data Science | AI Explore    │
