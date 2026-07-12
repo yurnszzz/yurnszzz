@@ -5,11 +5,11 @@
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1929,50:0EA5E9,100:818CF8&height=220&section=header&text=Hasan%20Shofiyyur%20Rahman&fontSize=42&fontColor=F1F5F9&fontAlignY=35&desc=%E2%9C%A6%20IT%20Audit%20%C2%B7%20Data%20Science%20%C2%B7%20Governance&descColor=94A3B8&descAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1929,50:0EA5E9,100:818CF8&height=220&section=header&text=Hasan%20Shofiyyur%20Rahman&fontSize=42&fontColor=F1F5F9&fontAlignY=35&desc=%E2%9C%A6%20Data%20Science%20%C2%B7%20IT%20Audit&descColor=94A3B8&descAlignY=55&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+whoami+%E2%86%92+Information+Systems+%40+UPN+Veteran+Jakarta;%24+cat+focus.txt+%E2%86%92+IT+Audit+%7C+Data+Science+%7C+AI+Explorer;%24+cat+status.txt+%E2%86%92+Published+Researcher+%7C+3+Papers+%7C+BSO+President;%24+echo+%22Turning+data+into+decisions%2C+risks+into+resilience.%22" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=35&lines=%24+whoami+%E2%86%92+IS+Student+%40+UPN+Veteran+Jakarta;%24+focus+%E2%86%92+IT+Audit+%7C+Data+Science+%7C+AI;%24+status+%E2%86%92+Researcher+%7C+3+Papers+%7C+BSO+President;%24+echo+%22Data+to+decisions%2C+risks+to+resilience%22" />
 </div>
 
 <br/>
@@ -17,7 +17,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/S1_Sistem_Informasi-UPN_Veteran_Jakarta-0EA5E9?style=flat-square&logo=google-scholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Batch_2024-Undergraduate-818CF8?style=flat-square&logo=mortarboard&logoColor=white" />
-  <img src="https://img.shields.io/badge/📍_Tangerang_Selatan-Indonesia-22D3EE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tangerang_Selatan-Indonesia-22D3EE?style=flat-square&logo=googlemaps&logoColor=white" />
 </div>
 
 <br/>
@@ -32,11 +32,11 @@
   <a href="https://www.kaggle.com/hasansr">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/yurnsz/">
+    <img src="https://img.shields.io/badge/Instagram-yurnsz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="mailto:hasanshofiyyur@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://rasajawara.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-818CF8?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
@@ -75,14 +75,14 @@ $ cat .profile
 ```
 
 <details>
-<summary><b>🎯 Open To</b></summary>
+<summary><b><img src="https://img.shields.io/badge/Open_To-22D3EE?style=flat-square&logo=target&logoColor=white" height="18" /></b></summary>
 <br/>
 
-- 🔍 IT Audit & Assurance Internship / Assistant Positions
-- 📊 Data Science & Analytics Roles
-- 🛡️ IT Risk Management & Governance Projects
-- 🤝 Research Collaboration in Information Systems
-- 💡 Open Source Contributions in Security & Data Science
+- <img src="https://img.shields.io/badge/-0EA5E9?style=flat-square&logo=search&logoColor=white" height="14" /> IT Audit & Assurance Internship / Assistant Positions
+- <img src="https://img.shields.io/badge/-818CF8?style=flat-square&logo=databricks&logoColor=white" height="14" /> Data Science & Analytics Roles
+- <img src="https://img.shields.io/badge/-22D3EE?style=flat-square&logo=shieldsdotio&logoColor=white" height="14" /> IT Risk Management & Governance Projects
+- <img src="https://img.shields.io/badge/-6366F1?style=flat-square&logo=handshake&logoColor=white" height="14" /> Research Collaboration in Information Systems
+- <img src="https://img.shields.io/badge/-0EA5E9?style=flat-square&logo=openaccess&logoColor=white" height="14" /> Open Source Contributions in Security & Data Science
 
 </details>
 
@@ -111,13 +111,14 @@ $ cat .profile
 
 <img src="https://skillicons.dev/icons?i=mysql,firebase,docker,git,github,vscode&theme=dark" />
 
-**IT Governance & Frameworks**
+**Audit & Governance Frameworks** *(studied)*
 
 <img src="https://img.shields.io/badge/COBIT_2019-0EA5E9?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/ITIL_v3_&_v4-818CF8?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/NIST_CSF_2.0-22D3EE?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/OCTAVE_Allegro-6366F1?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/TOGAF_(Intro)-0EA5E9?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/WebQual_4.0-818CF8?style=for-the-badge&logoColor=white" />
 
 </div>
 
@@ -222,7 +223,7 @@ Built an intelligent agent that retrieves and synthesizes company knowledge base
 
 <div align="center">
 
-📄 **Published Academic Research** — [Google Scholar Profile](https://scholar.google.com/citations?user=eWdyj7kAAAAJ&hl=id)
+<img src="https://img.shields.io/badge/Published_Academic_Research-4285F4?style=flat-square&logo=google-scholar&logoColor=white" height="20" /> — [Google Scholar Profile](https://scholar.google.com/citations?user=eWdyj7kAAAAJ&hl=id)
 
 </div>
 
@@ -240,7 +241,7 @@ Built an intelligent agent that retrieves and synthesizes company knowledge base
 
 <table>
 <tr>
-<td width="80" align="center">🏛️</td>
+<td width="80" align="center"><img src="https://img.shields.io/badge/-0EA5E9?style=for-the-badge&logo=building&logoColor=white" height="30" /></td>
 <td>
 <b>President — BSO Ar-Risalah FIK UPN "Veteran" Jakarta</b><br/>
 <sub>Leading the Islamic student organization within the Faculty of Computer Science. Managing organizational strategy, member development, and campus-wide Islamic programs.</sub><br/><br/>
@@ -250,7 +251,7 @@ Built an intelligent agent that retrieves and synthesizes company knowledge base
 </td>
 </tr>
 <tr>
-<td width="80" align="center">🎨</td>
+<td width="80" align="center"><img src="https://img.shields.io/badge/-818CF8?style=for-the-badge&logo=canvas&logoColor=white" height="30" /></td>
 <td>
 <b>Staff — Media & Creative Department</b><br/>
 <sub>Creating visual content, managing social media presence, and producing creative assets for organizational communications.</sub><br/><br/>
@@ -271,16 +272,24 @@ Built an intelligent agent that retrieves and synthesizes company knowledge base
 
 **IBM SkillsBuild**
 
-<img src="https://img.shields.io/badge/IBM-Build_an_AI_Agent-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/IBM-Code_Generation_&_Optimization_Using_IBM_Granite-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+<a href="https://www.credly.com/badges/27a6b11c-919a-4147-b282-c1268e5f8b41/linked_in_profile">
+  <img src="https://img.shields.io/badge/IBM-Build_an_AI_Agent-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+</a>
+<a href="https://www.credly.com/badges/348cc932-eddb-414c-8bcf-dbd42757a085/linked_in_profile">
+  <img src="https://img.shields.io/badge/IBM-Code_Generation_&_Optimization_(IBM_Granite)-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+</a>
 
 **Industry Certifications**
 
-<img src="https://img.shields.io/badge/Certiport-IT_Specialist_in_Data_Analytics-0EA5E9?style=for-the-badge&logo=pearson&logoColor=white" />
+<a href="https://www.credly.com/badges/28dec9d6-5222-47eb-ba7f-4e333042cb0c">
+  <img src="https://img.shields.io/badge/Certiport-IT_Specialist_in_Data_Analytics-0EA5E9?style=for-the-badge&logo=pearson&logoColor=white" />
+</a>
 
 **Community**
 
-<img src="https://img.shields.io/badge/VeteranTech_KSM-Data_Science_Basic-818CF8?style=for-the-badge&logo=databricks&logoColor=white" />
+<a href="https://github.com/yurnszzz/yurnszzz/blob/main/Data%20Science%20Basic%20Hasan%20Shofiyyur%20Rahman.pdf">
+  <img src="https://img.shields.io/badge/VeteranTech_KSM-Data_Science_Basic-818CF8?style=for-the-badge&logo=databricks&logoColor=white" />
+</a>
 
 </div>
 
@@ -291,8 +300,12 @@ Built an intelligent agent that retrieves and synthesizes company knowledge base
 ## `> git log --stat`
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yurnszzz&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=22D3EE&text_color=94A3B8&bg_color=0c1929&ring_color=818CF8&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=yurnszzz&hide_border=true&background=0c1929&stroke=1e293b&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=F1F5F9&sideNums=F1F5F9&dates=475569" />
+  <a href="https://github.com/yurnszzz">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=yurnszzz&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=22D3EE&text_color=94A3B8&bg_color=0c1929&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/yurnszzz">
+    <img height="180" src="https://streak-stats.demolab.com?user=yurnszzz&hide_border=true&background=0c1929&stroke=1e293b&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=F1F5F9&sideNums=F1F5F9&dates=475569" />
+  </a>
 </div>
 
 <br/>
@@ -334,14 +347,24 @@ Built an intelligent agent that retrieves and synthesizes company knowledge base
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
+<!-- ═══════════════════════ CONTRIBUTION ANIMATIONS ═══════════════════════ -->
 
 <div align="center">
+
+**`> contribution-snake`**
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yurnszzz/yurnszzz/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yurnszzz/yurnszzz/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/yurnszzz/yurnszzz/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/yurnszzz/yurnszzz/output/github-snake-dark.svg" width="100%" />
   </picture>
+
+<br/>
+
+**`> contribution-pacman`**
+
+  <img alt="github-pacman" src="https://raw.githubusercontent.com/yurnszzz/yurnszzz/output/github-pacman-dark.svg" width="100%" />
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -390,6 +413,10 @@ open_to:
   <img src="https://img.shields.io/badge/LinkedIn-Hasan_Shofiyyur_Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="https://www.instagram.com/yurnsz/">
+  <img src="https://img.shields.io/badge/Instagram-yurnsz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 <a href="https://github.com/yurnszzz">
   <img src="https://img.shields.io/badge/GitHub-yurnszzz-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -403,7 +430,7 @@ open_to:
 </a>
 
 <a href="https://rasajawara.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-rasajawara.netlify.app-818CF8?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RasaJawara-Business_Store-818CF8?style=for-the-badge&logo=shopify&logoColor=white" />
 </a>
 
 </div>
