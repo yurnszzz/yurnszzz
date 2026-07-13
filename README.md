@@ -316,14 +316,8 @@ Built an intelligent agent that retrieves and synthesizes company knowledge base
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yurnszzz&layout=compact&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0c1929&langs_count=8" />
 </div>
 
-<br/>
 
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yurnszzz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
 
-<br/>
 
 <!-- Activity Graph -->
 <div align="center">
