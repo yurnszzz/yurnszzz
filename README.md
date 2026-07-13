@@ -5,7 +5,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1929,50:0EA5E9,100:818CF8&height=220&section=header&text=Hasan%20Shofiyyur%20Rahman&fontSize=42&fontColor=F1F5F9&fontAlignY=35&desc=%E2%9C%A6%20Data%20Science%20%C2%B7%20IT%20Audit&descColor=94A3B8&descAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1929,50:0EA5E9,100:818CF8&height=220&section=header&text=Hasan%20Shofiyyur%20Rahman&fontSize=42&fontColor=F1F5F9&fontAlignY=35&desc=Data%20Science%20%C2%B7%20IT%20Audit&descColor=94A3B8&descAlignY=55&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -223,7 +223,9 @@ Built an intelligent agent that retrieves and synthesizes company knowledge base
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Published_Academic_Research-4285F4?style=flat-square&logo=google-scholar&logoColor=white" height="20" /> — [Google Scholar Profile](https://scholar.google.com/citations?user=eWdyj7kAAAAJ&hl=id)
+<a href="https://scholar.google.com/citations?user=eWdyj7kAAAAJ&hl=id">
+  <img src="https://img.shields.io/badge/Published_Academic_Research-Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</a>
 
 </div>
 
@@ -253,7 +255,7 @@ Built an intelligent agent that retrieves and synthesizes company knowledge base
 <tr>
 <td width="80" align="center"><img src="https://img.shields.io/badge/-818CF8?style=for-the-badge&logo=canvas&logoColor=white" height="30" /></td>
 <td>
-<b>Staff — Media & Creative Department</b><br/>
+<b>Staff — Media & Creative Department, BSO Ar-Risalah FIK UPNVJ</b><br/>
 <sub>Creating visual content, managing social media presence, and producing creative assets for organizational communications.</sub><br/><br/>
 <img src="https://img.shields.io/badge/Content_Creation-0EA5E9?style=flat-square" />
 <img src="https://img.shields.io/badge/Visual_Design-818CF8?style=flat-square" />
@@ -301,7 +303,7 @@ Built an intelligent agent that retrieves and synthesizes company knowledge base
 
 <div align="center">
   <a href="https://github.com/yurnszzz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=yurnszzz&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=22D3EE&text_color=94A3B8&bg_color=0c1929&include_all_commits=true" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yurnszzz&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=22D3EE&text_color=94A3B8&bg_color=0c1929&include_all_commits=true" />
   </a>
   <a href="https://github.com/yurnszzz">
     <img height="180" src="https://streak-stats.demolab.com?user=yurnszzz&hide_border=true&background=0c1929&stroke=1e293b&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=F1F5F9&sideNums=F1F5F9&dates=475569" />
@@ -311,7 +313,7 @@ Built an intelligent agent that retrieves and synthesizes company knowledge base
 <br/>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurnszzz&layout=compact&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0c1929&langs_count=8" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yurnszzz&layout=compact&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0c1929&langs_count=8" />
 </div>
 
 <br/>
