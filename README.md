@@ -316,8 +316,7 @@ Built an intelligent agent that retrieves and synthesizes company knowledge base
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yurnszzz&layout=compact&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0c1929&langs_count=8" />
 </div>
 
-
-
+<br/>
 
 <!-- Activity Graph -->
 <div align="center">
@@ -330,6 +329,8 @@ Built an intelligent agent that retrieves and synthesizes company knowledge base
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yurnszzz&theme=2077" width="100%" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yurnszzz&theme=2077" height="180" />
@@ -431,6 +432,7 @@ open_to:
 
 </div>
 
+<br/>
 <br/>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
