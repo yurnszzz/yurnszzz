@@ -62,16 +62,16 @@ As a published researcher with **3 academic papers** and the **President of BSO 
 
 ```bash
 $ cat .profile
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│   ROLE     = Information Systems Student             │
-│   MAJOR    = S1 Sistem Informasi (Batch 2024)        │
-│   CAMPUS   = UPN "Veteran" Jakarta                   │
-│   DOMAIN   = IT Audit | Data Science | AI Explore    │
-│   STACK    = Python | SQL | COBIT | ITIL | NIST      │
-│   OPEN_TO  = IT Audit Intern | Data Science Roles    │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│   ROLE     = Information Systems Student               │
+│   MAJOR    = S1 Sistem Informasi (Batch 2024)          │
+│   CAMPUS   = UPN "Veteran" Jakarta                     │
+│   DOMAIN   = IT Audit | Data Science | AI Explore      │
+│   STACK    = Python | SQL | COBIT | WEBQUAL 4.0 | NIST │
+│   OPEN_TO  = IT Audit Intern | Data Science Roles      │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
 ```
 
 <details>
