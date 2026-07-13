@@ -320,7 +320,7 @@ Built an intelligent agent that retrieves and synthesizes company knowledge base
 
 <!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yurnszzz&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yurnszzz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 <br/>
