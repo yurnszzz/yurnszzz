@@ -56,7 +56,7 @@
 
 ## `> whoami`
 
-Information Systems student at **UPN "Veteran" Jakarta** with a strong focus on **IT Audit & Governance** and **Data Science**. I bridge the gap between compliance frameworks and data-driven decision making — transforming organizational risks into measurable, actionable insights.
+Information Systems student at **UPN "Veteran" Jakarta** with a strong focus on **IT Audit & Governance** and **Data Science**. I bridge the gap between compliance frameworks and data-driven decision making - transforming organizational risks into measurable, actionable insights.
 
 As a published researcher with **3 academic papers** and the **President of BSO Ar-Risalah FIK**, I combine technical rigor with leadership to deliver impactful solutions in cybersecurity assessment, information systems design, and predictive analytics.
 
