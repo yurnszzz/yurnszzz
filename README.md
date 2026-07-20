@@ -398,7 +398,7 @@ learning:
 building:
   - Machine Learning predictive models
   - Exploring Vibe Coding workflows
-  - Academic research papers in IS & Cybersecurity
+  - Academic research papers in IS and IT AUDIT
 
 exploring:
   - AI-assisted code generation
@@ -407,8 +407,8 @@ exploring:
 
 open_to:
   - IT Audit Assistant / Intern
-  - IT Risk Management positions
-  - Data Science / Analytics roles
+  - IT Risk Management Intern
+  - Data Science / Analytics Intern
   - Research collaboration
 ```
 
