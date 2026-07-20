@@ -305,6 +305,10 @@ Built an intelligent agent that retrieves and synthesizes company knowledge base
 <a href="https://github.com/yurnszzz/yurnszzz/blob/main/Data%20Science%20Basic%20Hasan%20Shofiyyur%20Rahman.pdf">
   <img src="https://img.shields.io/badge/VeteranTech_KSM-Data_Science_Basic-818CF8?style=for-the-badge&logo=databricks&logoColor=white" />
 </a>
+<a href="https://github.com/yurnszzz/yurnszzz/blob/main/Data%20Science%20Beginner%20Hasan%20Shofiyyur%20Rahman.pdf">
+  <img src="https://img.shields.io/badge/VeteranTech_KSM-Data_Science_Beginner-818CF8?style=for-the-badge&logo=databricks&logoColor=white" />
+</a>
+
 
 </div>
 
