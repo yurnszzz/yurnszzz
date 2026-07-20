@@ -280,12 +280,25 @@ Built an intelligent agent that retrieves and synthesizes company knowledge base
 <a href="https://www.credly.com/badges/348cc932-eddb-414c-8bcf-dbd42757a085/linked_in_profile">
   <img src="https://img.shields.io/badge/IBM-Code_Generation_&_Optimization_(IBM_Granite)-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
 </a>
+<a href="https://www.credly.com/badges/3c564e16-9b5a-4f05-8e3d-dac44b83178c/public_url">
+  <img src="https://img.shields.io/badge/IBM-Getting_Started_with_Data-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+</a>
+<a href="https://www.credly.com/badges/386647f6-f02e-4d5d-b3d8-bb0775dcbfdd/public_url">
+  <img src="https://img.shields.io/badge/IBM-Journey_to_Cloud_--_Transforming_your_Culture-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+</a>
+<a href="https://www.credly.com/badges/dd8132b9-f10a-4b4f-89b0-06e58436f09e/public_url">
+  <img src="https://img.shields.io/badge/IBM-Data_Literacy-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+</a>
+
+<br>
 
 **Industry Certifications**
 
 <a href="https://www.credly.com/badges/28dec9d6-5222-47eb-ba7f-4e333042cb0c">
   <img src="https://img.shields.io/badge/Certiport-IT_Specialist_in_Data_Analytics-0EA5E9?style=for-the-badge&logo=pearson&logoColor=white" />
 </a>
+
+<br>
 
 **Community**
 
