@@ -23,6 +23,9 @@
 <br/>
 
 <div align="center">
+  <a href="https://portofolio-hasan-shofiyyur-rahman.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/hasan-shofiyyur-rahman-b03340320/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -390,10 +393,11 @@ Built an intelligent agent that retrieves and synthesizes company knowledge base
 
 ```yaml
 learning:
-  - IT Audit & Assurance methodologies
+  - IT Audit methodologies
   - TOGAF ADM for Enterprise Architecture
-  - COBIT 2019 deep-dive governance framework
+  - COBIT 2019 governance framework
   - Deep Learning fundamentals
+  - Data Science and Analytics
 
 building:
   - Machine Learning predictive models
@@ -404,6 +408,7 @@ exploring:
   - AI-assisted code generation
   - Risk-based auditing approaches
   - Advanced data visualization techniques
+  - AI Application in Audit and Governance
 
 open_to:
   - IT Audit Assistant / Intern
@@ -446,6 +451,10 @@ open_to:
 
 <a href="https://rasajawara.netlify.app/">
   <img src="https://img.shields.io/badge/RasaJawara-Business_Store-818CF8?style=for-the-badge&logo=shopify&logoColor=white" />
+</a>
+
+<a href="https://portofolio-hasan-shofiyyur-rahman.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
