@@ -412,7 +412,7 @@ exploring:
 
 open_to:
   - IT Audit Assistant / Intern
-  - IT Risk Management Intern
+  - IT Risk Management / Technology Risk Intern 
   - Data Science / Analytics Intern
   - Research collaboration
 ```
